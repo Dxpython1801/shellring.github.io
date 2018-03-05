@@ -19,3 +19,5 @@ favicon: /favicon.ico
 # stylesheets loaded in the <head>
 stylesheets:
 - /css/hexo-theme-adoubi.css
+
+theme: jekyll-theme-hacker
